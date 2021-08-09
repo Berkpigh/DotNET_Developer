@@ -7,6 +7,7 @@ namespace HelloWorld
     public class CheckingAccount
     {
         public string Name { get; set; }
+        public string FirstName { get; set; }
 
         public double Balance { get; set; }
 
